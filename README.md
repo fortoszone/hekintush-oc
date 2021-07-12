@@ -1,4 +1,4 @@
-# Hackintosh 10.15.5 Catalina on ASUS A456UR-GA090D
+# Hackintosh 10.15.7 Catalina on ASUS A456UR-GA090D
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -18,20 +18,23 @@
   - IGPU with QE/CI
   - Audio /w 3.5mm Jack Audio port
   - Internal Mic with Siri
+  - Wifi *kinda work
   - Usb 3.0 + 3.1 Type-C Full Speed
-  - Touchpad - but not identified
+  - Touchpad
   - Built-in Webcam
+  - iMessage
+  - Facetime
+  - Appstore
   - iCloud
   - VGA port
   - Ethernet port
   - Bluetooth 
   - Brightness
   - Asus Fn key
+  - Touchpad *but not identified
 
 * What's not work?
-  - Touchpad gesture
   - Sleep Cycle
-  - Battery Indicator
+  - Battery Indicator (DSDT stuff)
   - DGPU (Not possible on Hackintosh laptop)
-  - Card Reader
-  - Wifi, BT *for now
+  - Card Reader (Not tested)
