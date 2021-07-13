@@ -1,4 +1,5 @@
 # Hackintosh 10.15.7 Catalina on ASUS A456UR-GA090D
+OC Version: 0.7.1
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -16,10 +17,10 @@
 
 * What's work? 
   - IGPU with QE/CI
-  - Audio /w 3.5mm Jack Audio port
+  - Audio + Jack Port
   - Internal Mic with Siri
-  - Wifi *kinda work
-  - Usb 3.0 + 3.1 Type-C Full Speed
+  - Wifi *via airportitlwm
+  - Usb Ports
   - Touchpad
   - Built-in Webcam
   - iMessage
@@ -31,10 +32,10 @@
   - Bluetooth 
   - Brightness
   - Asus Fn key
-  - Touchpad *but not identified
+  - Touchpad *identified
+  - Battery Indicator
 
 * What's not work?
-  - Sleep Cycle
-  - Battery Indicator (DSDT stuff)
+  - Sleep Cycle (disable dGPU via SSDT soon)
   - DGPU (Not possible on Hackintosh laptop)
   - Card Reader (Not tested)
