@@ -1,3 +1,4 @@
+![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
 # Hackintosh 11.4 Big Sur on ASUS A456UR-GA090D
 OC Version: 0.7.1
 
