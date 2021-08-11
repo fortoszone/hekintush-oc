@@ -1,4 +1,4 @@
-# Hackintosh 10.15.7 Catalina on ASUS A456UR-GA090D
+# Hackintosh 11.4 Big Sur on ASUS A456UR-GA090D
 OC Version: 0.7.1
 
 * Spec
