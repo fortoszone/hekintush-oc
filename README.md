@@ -1,6 +1,6 @@
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
-# Hackintosh 11.4 Big Sur on ASUS A456UR-GA090D
-OC Version: 0.7.1
+# Hackintosh 11.5.2 Big Sur on ASUS A456UR-GA090D
+OC Version: 0.7.2
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -24,8 +24,6 @@ OC Version: 0.7.1
   - Usb Ports
   - Touchpad
   - Built-in Webcam
-  - iMessage
-  - Facetime
   - Appstore
   - iCloud
   - VGA port
@@ -33,10 +31,10 @@ OC Version: 0.7.1
   - Bluetooth 
   - Brightness
   - Asus Fn key
-  - Touchpad *identified
+  - Touchpad
   - Battery Indicator
 
 * What's not work?
-  - Sleep Cycle (disable dGPU via SSDT soon)
+  - Sleep Cycle on AC
   - DGPU (Not possible on Hackintosh laptop)
   - Card Reader (Not tested)
