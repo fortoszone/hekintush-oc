@@ -35,6 +35,6 @@ OC Version: 0.7.2
   - Battery Indicator
 
 * What's not work?
-  - Sleep Cycle on AC
+  - Sleep cycle when plugged into AC *but works when on battery
   - DGPU (Not possible on Hackintosh laptop)
   - Card Reader (Not tested)
