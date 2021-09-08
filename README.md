@@ -33,8 +33,8 @@ OC Version: 0.7.2
   - Asus Fn key
   - Touchpad
   - Battery Indicator
+  - Sleep on plugged in + battery mode
 
 * What's not work?
-  - Sleep cycle when plugged into AC *but works when on battery
   - DGPU (Not possible on Hackintosh laptop)
   - Card Reader (Not tested)
