@@ -1,6 +1,6 @@
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
 # Hackintosh 11.5.2 Big Sur on ASUS A456UR-GA090D
-OC Version: 0.7.2
+OC Version: 0.7.4
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -33,7 +33,7 @@ OC Version: 0.7.2
   - Asus Fn key
   - Touchpad
   - Battery Indicator
-  - Sleep on plugged in + battery mode
+  - Sleep
 
 * What's not work?
   - DGPU (Not possible on Hackintosh laptop)
