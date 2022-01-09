@@ -1,6 +1,6 @@
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
-# Hackintosh 11.5.2 Big Sur on ASUS A456UR-GA090D
-OC Version: 0.7.4
+# Hackintosh 12.1 Monterey on ASUS A456UR-GA090D
+OC Version: 0.7.6
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -16,7 +16,7 @@ OC Version: 0.7.4
   - Screen Size : 14"
   - Screen Res : 1366 x 768p
 
-* What's work? 
+* What's work? (WIP)
   - IGPU with QE/CI
   - Audio + Jack Port
   - Internal Mic with Siri
