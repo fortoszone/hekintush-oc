@@ -3,7 +3,7 @@ Feel free to ask issue with logs on Issues sections in this repo, pm me on teleg
 
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
 # Hackintosh 12.1 Monterey on ASUS A456UR-GA090D
-OC Version: 0.7.6
+OC Version: 0.7.7
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
