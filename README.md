@@ -1,5 +1,4 @@
-Feel free to ask issue with logs on Issues sections in this repo, pm me on telegram @fortoszone or discord tag @fort0#1415. Asking elsewhere won't be response.
-
+Feel free to ask issue with logs on Issues sections in this repo. Asking elsewhere won't be response.
 
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
 # Hackintosh 12.1 Monterey on ASUS A456UR-GA090D
