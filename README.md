@@ -1,9 +1,8 @@
-Feel free to ask issue with logs on Issues sections in this repo, pm me on telegram @fortoszone or discord tag @fort0#1415. Asking elsewhere won't be response.
-
+Feel free to ask issue with logs on Issues sections in this repo. Asking elsewhere won't be response.
 
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
-# Hackintosh 12.1 Monterey on ASUS A456UR-GA090D
-OC Version: 0.7.7
+# Hackintosh 12.4 Monterey on ASUS A456UR-GA090D
+OC Version: 0.8.3
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -19,7 +18,7 @@ OC Version: 0.7.7
   - Screen Size : 14"
   - Screen Res : 1366 x 768p
 
-* What's work? (WIP)
+* What's work?
   - IGPU with QE/CI
   - Audio + Jack Port
   - Internal Mic with Siri
