@@ -1,7 +1,7 @@
 Feel free to ask issue with logs on Issues sections in this repo. Asking elsewhere won't be response.
 
 ![alt text](https://github.com/fortoszone/hekintush-oc/blob/main/ss.png?raw=true)
-# Hackintosh 12.4 Monterey on ASUS A456UR-GA090D
+# Hackintosh 13.0 Ventura on ASUS A456UR-GA090D
 OC Version: 0.8.3
 
 * Spec
@@ -10,7 +10,7 @@ OC Version: 0.8.3
   - DGPU : Nvidia GeForce 930MX (disabled)
   - Memory : Kingston A400 120GB SSD
   - RAM : Built-in  Micron 4GB 2133Mhz (Soldered) + HyperX 8GB 2666Mhz DDR4 
-  - Wifi + Bluetooth : Intel Wifi 6 AX200
+  - Wifi + Bluetooth : Intel Wifi 6 AX200 (my wifi card is broken, so i use TL-WN725N atm.)
   - Audio : Conexant CX8050
   - Ethernet : Realtek RTL8111
   - Port USB : 1x USB 2.0, 1x USB 3.0, 1x USB 3.1 Type-C non-Thunderbolt
